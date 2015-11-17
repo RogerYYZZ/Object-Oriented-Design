@@ -10,7 +10,7 @@ import javax.swing.JComponent;
 import javax.swing.JTextField;
 
 public class Map extends JComponent implements MouseListener{
-
+//SECOND COMMIT
 private ArrayList<Plane> planes;
 private Plane plane;
 //set the original color of the plane
